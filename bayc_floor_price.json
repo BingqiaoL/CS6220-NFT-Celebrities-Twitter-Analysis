@@ -1,0 +1,5521 @@
+{
+    "status": 200,
+    "response": {
+      "collection_address": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+      "response": [
+        {
+          "average_listing_age": 18705,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 88,
+            "token_id": 301
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 80,
+            "token_id": 2163
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 4206.9,
+            "token_id": 8811
+          },
+          "num_active_listings": 271,
+          "num_unique_owners": 222,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 666.6659999999999,
+            "token_id": 367
+          },
+          "timestamp": "2022-08-01 00:00:00"
+        },
+        {
+          "average_listing_age": 13868,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 139,
+            "token_id": 2240
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 80,
+            "token_id": 2163
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 4206.9,
+            "token_id": 8811
+          },
+          "num_active_listings": 275,
+          "num_unique_owners": 224,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-02 00:00:00"
+        },
+        {
+          "average_listing_age": 29055,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 106,
+            "token_id": 3652
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 79.5812,
+            "token_id": 8922
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 4206.9,
+            "token_id": 8811
+          },
+          "num_active_listings": 328,
+          "num_unique_owners": 229,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-03 00:00:00"
+        },
+        {
+          "average_listing_age": 78322,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 109.69,
+            "token_id": 2103
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 81.8,
+            "token_id": 7139
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 4206.9,
+            "token_id": 8811
+          },
+          "num_active_listings": 320,
+          "num_unique_owners": 233,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-04 00:00:00"
+        },
+        {
+          "average_listing_age": 70964,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 104.99,
+            "token_id": 2758
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 81.8,
+            "token_id": 7139
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 4206.9,
+            "token_id": 8811
+          },
+          "num_active_listings": 310,
+          "num_unique_owners": 229,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-05 00:00:00"
+        },
+        {
+          "average_listing_age": 10463,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 89.5,
+            "token_id": 8829
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 81,
+            "token_id": 166
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 4206.9,
+            "token_id": 8811
+          },
+          "num_active_listings": 303,
+          "num_unique_owners": 220,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-06 00:00:00"
+        },
+        {
+          "average_listing_age": 523,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 115.7,
+            "token_id": 3972
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 81.8,
+            "token_id": 7139
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 4206.9,
+            "token_id": 8811
+          },
+          "num_active_listings": 337,
+          "num_unique_owners": 218,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-07 00:00:00"
+        },
+        {
+          "average_listing_age": 13509,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 100,
+            "token_id": 7842
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 82.69,
+            "token_id": 8167
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 4206.9,
+            "token_id": 8811
+          },
+          "num_active_listings": 305,
+          "num_unique_owners": 221,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-08 00:00:00"
+        },
+        {
+          "average_listing_age": 68661,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 94.3,
+            "token_id": 1939
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 83,
+            "token_id": 9012
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 4206.9,
+            "token_id": 8811
+          },
+          "num_active_listings": 299,
+          "num_unique_owners": 215,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-09 00:00:00"
+        },
+        {
+          "average_listing_age": 54169,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 89.5,
+            "token_id": 6148
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 82.48,
+            "token_id": 6891
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 4206.9,
+            "token_id": 8811
+          },
+          "num_active_listings": 265,
+          "num_unique_owners": 208,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-10 00:00:00"
+        },
+        {
+          "average_listing_age": 71587,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 349.25,
+            "token_id": 7863
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 78.69,
+            "token_id": 2491
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 4206.9,
+            "token_id": 8811
+          },
+          "num_active_listings": 258,
+          "num_unique_owners": 208,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-11 00:00:00"
+        },
+        {
+          "average_listing_age": 53383,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 94.3,
+            "token_id": 1939
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 78.69,
+            "token_id": 2491
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 4206.9,
+            "token_id": 8811
+          },
+          "num_active_listings": 253,
+          "num_unique_owners": 207,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-12 00:00:00"
+        },
+        {
+          "average_listing_age": 43041,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 78.75,
+            "token_id": 2518
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 78.69,
+            "token_id": 2491
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 3499.0000000000005,
+            "token_id": 4851
+          },
+          "num_active_listings": 256,
+          "num_unique_owners": 207,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-13 00:00:00"
+        },
+        {
+          "average_listing_age": 30757,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 104,
+            "token_id": 734
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 78.69,
+            "token_id": 2491
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 3499.0000000000005,
+            "token_id": 4851
+          },
+          "num_active_listings": 261,
+          "num_unique_owners": 209,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-14 00:00:00"
+        },
+        {
+          "average_listing_age": 85879,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 83.75,
+            "token_id": 2191
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 77.65,
+            "token_id": 2674
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 3499.0000000000005,
+            "token_id": 4851
+          },
+          "num_active_listings": 266,
+          "num_unique_owners": 214,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-15 00:00:00"
+        },
+        {
+          "average_listing_age": 3585,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 107.1,
+            "token_id": 2235
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 76.3657,
+            "token_id": 1236
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 3499.0000000000005,
+            "token_id": 4851
+          },
+          "num_active_listings": 303,
+          "num_unique_owners": 212,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-16 00:00:00"
+        },
+        {
+          "average_listing_age": 14586,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 100,
+            "token_id": 4132
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 77.5,
+            "token_id": 2491
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 3499.0000000000005,
+            "token_id": 4851
+          },
+          "num_active_listings": 291,
+          "num_unique_owners": 215,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-17 00:00:00"
+        },
+        {
+          "average_listing_age": 21139,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 95,
+            "token_id": 1576
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 69.69,
+            "token_id": 8167
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 3499.0000000000005,
+            "token_id": 4851
+          },
+          "num_active_listings": 299,
+          "num_unique_owners": 219,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-18 00:00:00"
+        },
+        {
+          "average_listing_age": 11989,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 76,
+            "token_id": 1939
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 69.69,
+            "token_id": 8167
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 3499.0000000000005,
+            "token_id": 4851
+          },
+          "num_active_listings": 291,
+          "num_unique_owners": 220,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-19 00:00:00"
+        },
+        {
+          "average_listing_age": 22704,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 90.2,
+            "token_id": 7370
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 65.68,
+            "token_id": 9483
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 3499.0000000000005,
+            "token_id": 4851
+          },
+          "num_active_listings": 289,
+          "num_unique_owners": 215,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-20 00:00:00"
+        },
+        {
+          "average_listing_age": 26529,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 90.986,
+            "token_id": 7908
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 65.68,
+            "token_id": 9483
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 3499.0000000000005,
+            "token_id": 4851
+          },
+          "num_active_listings": 277,
+          "num_unique_owners": 212,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-21 00:00:00"
+        },
+        {
+          "average_listing_age": 61228,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 93.3,
+            "token_id": 7370
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 65.79,
+            "token_id": 8922
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 10000,
+            "token_id": 4148
+          },
+          "num_active_listings": 292,
+          "num_unique_owners": 201,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-22 00:00:00"
+        },
+        {
+          "average_listing_age": 9111,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 73.55,
+            "token_id": 1939
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 66.9,
+            "token_id": 9483
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 10000,
+            "token_id": 4148
+          },
+          "num_active_listings": 261,
+          "num_unique_owners": 195,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-23 00:00:00"
+        },
+        {
+          "average_listing_age": 10287,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 98,
+            "token_id": 7370
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 66.9,
+            "token_id": 9483
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 10000,
+            "token_id": 4148
+          },
+          "num_active_listings": 267,
+          "num_unique_owners": 198,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-24 00:00:00"
+        },
+        {
+          "average_listing_age": 45397,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 77,
+            "token_id": 1659
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 70.88,
+            "token_id": 9483
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 10000,
+            "token_id": 4148
+          },
+          "num_active_listings": 258,
+          "num_unique_owners": 192,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-25 00:00:00"
+        },
+        {
+          "average_listing_age": 12423,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 139.69,
+            "token_id": 8336
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 72.58,
+            "token_id": 9483
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 10000,
+            "token_id": 4148
+          },
+          "num_active_listings": 243,
+          "num_unique_owners": 188,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-26 00:00:00"
+        },
+        {
+          "average_listing_age": 35174,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 93.1938,
+            "token_id": 5458
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 72.5,
+            "token_id": 9483
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 234,
+          "num_unique_owners": 188,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-27 00:00:00"
+        },
+        {
+          "average_listing_age": 68929,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 94.69,
+            "token_id": 5683
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 72.5,
+            "token_id": 9483
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 230,
+          "num_unique_owners": 181,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-28 00:00:00"
+        },
+        {
+          "average_listing_age": 63558,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 92.99,
+            "token_id": 6140
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 72.4,
+            "token_id": 9483
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 222,
+          "num_unique_owners": 177,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-29 00:00:00"
+        },
+        {
+          "average_listing_age": 8704,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 88,
+            "token_id": 629
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 72.4,
+            "token_id": 9483
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 217,
+          "num_unique_owners": 171,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-30 00:00:00"
+        },
+        {
+          "average_listing_age": 59162,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 101.11,
+            "token_id": 5451
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 73.8,
+            "token_id": 2491
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 218,
+          "num_unique_owners": 177,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-08-31 00:00:00"
+        },
+        {
+          "average_listing_age": 70717,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 98,
+            "token_id": 4258
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 73.8,
+            "token_id": 2491
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 210,
+          "num_unique_owners": 173,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-09-01 00:00:00"
+        },
+        {
+          "average_listing_age": 44571,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 87.88,
+            "token_id": 3954
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 73.8,
+            "token_id": 2491
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 206,
+          "num_unique_owners": 165,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-09-02 00:00:00"
+        },
+        {
+          "average_listing_age": 64420,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 81.69,
+            "token_id": 2675
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 69.95,
+            "token_id": 9425
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 204,
+          "num_unique_owners": 163,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-09-03 00:00:00"
+        },
+        {
+          "average_listing_age": 84805,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 95,
+            "token_id": 4258
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 69.95,
+            "token_id": 9425
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 206,
+          "num_unique_owners": 166,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-09-04 00:00:00"
+        },
+        {
+          "average_listing_age": 35935,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 95,
+            "token_id": 1576
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 69.95,
+            "token_id": 9425
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 211,
+          "num_unique_owners": 165,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 650,
+            "token_id": 2271
+          },
+          "timestamp": "2022-09-05 00:00:00"
+        },
+        {
+          "average_listing_age": 35025,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 100,
+            "token_id": 2267
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 69.95,
+            "token_id": 9425
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 221,
+          "num_unique_owners": 161,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-06 00:00:00"
+        },
+        {
+          "average_listing_age": 47218,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 102.06,
+            "token_id": 5478
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 73.77,
+            "token_id": 9483
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 209,
+          "num_unique_owners": 159,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-07 00:00:00"
+        },
+        {
+          "average_listing_age": 13417,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 95,
+            "token_id": 2387
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 72.2514,
+            "token_id": 6837
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 201,
+          "num_unique_owners": 160,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-08 00:00:00"
+        },
+        {
+          "average_listing_age": 35173,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 78.9,
+            "token_id": 1939
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 72.2514,
+            "token_id": 6837
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 202,
+          "num_unique_owners": 158,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-09 00:00:00"
+        },
+        {
+          "average_listing_age": 21183,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 85,
+            "token_id": 5363
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 73.88,
+            "token_id": 9483
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 192,
+          "num_unique_owners": 154,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-10 00:00:00"
+        },
+        {
+          "average_listing_age": 36374,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 94,
+            "token_id": 2287
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 72.88,
+            "token_id": 9483
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 221,
+          "num_unique_owners": 152,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-11 00:00:00"
+        },
+        {
+          "average_listing_age": 53509,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 89.99,
+            "token_id": 6408
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 70.1571,
+            "token_id": 4793
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 212,
+          "num_unique_owners": 154,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-12 00:00:00"
+        },
+        {
+          "average_listing_age": 5974,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 100,
+            "token_id": 7346
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 71.5,
+            "token_id": 3569
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 211,
+          "num_unique_owners": 158,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-13 00:00:00"
+        },
+        {
+          "average_listing_age": 13516,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 166,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 72.77,
+            "token_id": 6891
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 198,
+          "num_unique_owners": 153,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-14 00:00:00"
+        },
+        {
+          "average_listing_age": 68740,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 100.8,
+            "token_id": 7908
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 72,
+            "token_id": 9483
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 207,
+          "num_unique_owners": 146,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-15 00:00:00"
+        },
+        {
+          "average_listing_age": 43308,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 96,
+            "token_id": 8941
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 72,
+            "token_id": 9483
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 213,
+          "num_unique_owners": 144,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-16 00:00:00"
+        },
+        {
+          "average_listing_age": 39074,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 90,
+            "token_id": 8941
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 74,
+            "token_id": 3683
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 217,
+          "num_unique_owners": 150,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-17 00:00:00"
+        },
+        {
+          "average_listing_age": 30592,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 86.3124,
+            "token_id": 9077
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 74,
+            "token_id": 3683
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 209,
+          "num_unique_owners": 165,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-18 00:00:00"
+        },
+        {
+          "average_listing_age": 46274,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 79.2,
+            "token_id": 5292
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 73,
+            "token_id": 9568
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 228,
+          "num_unique_owners": 163,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-19 00:00:00"
+        },
+        {
+          "average_listing_age": 11962,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 98,
+            "token_id": 4541
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 73,
+            "token_id": 9568
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 206,
+          "num_unique_owners": 162,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-20 00:00:00"
+        },
+        {
+          "average_listing_age": 81141,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 100,
+            "token_id": 3263
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 74.5,
+            "token_id": 9982
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 197,
+          "num_unique_owners": 152,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-21 00:00:00"
+        },
+        {
+          "average_listing_age": 29738,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 82.1,
+            "token_id": 301
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 74.369,
+            "token_id": 2675
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 198,
+          "num_unique_owners": 156,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-22 00:00:00"
+        },
+        {
+          "average_listing_age": 25485,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 74.12846200000001,
+            "token_id": 9982
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 74.12846200000001,
+            "token_id": 9982
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 260,
+          "num_unique_owners": 154,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-23 00:00:00"
+        },
+        {
+          "average_listing_age": 18076,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 85,
+            "token_id": 7339
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 73.8030585,
+            "token_id": 9982
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 236,
+          "num_unique_owners": 155,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-24 00:00:00"
+        },
+        {
+          "average_listing_age": 56614,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 78.805844,
+            "token_id": 9982
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 78.240404,
+            "token_id": 9982
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 233,
+          "num_unique_owners": 153,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-25 00:00:00"
+        },
+        {
+          "average_listing_age": 32728,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 95,
+            "token_id": 1576
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 78.67807850000001,
+            "token_id": 9982
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 237,
+          "num_unique_owners": 153,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-26 00:00:00"
+        },
+        {
+          "average_listing_age": 25581,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 94.4096,
+            "token_id": 9077
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 79.99,
+            "token_id": 4651
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 232,
+          "num_unique_owners": 153,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-27 00:00:00"
+        },
+        {
+          "average_listing_age": 77678,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 95.9076,
+            "token_id": 9077
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 79.99,
+            "token_id": 4651
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 242,
+          "num_unique_owners": 155,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-28 00:00:00"
+        },
+        {
+          "average_listing_age": 40846,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 83.31071000000001,
+            "token_id": 9982
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 79.99,
+            "token_id": 4651
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 252,
+          "num_unique_owners": 154,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-29 00:00:00"
+        },
+        {
+          "average_listing_age": 83523,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 87.4,
+            "token_id": 1939
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 79.49,
+            "token_id": 4651
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 250,
+          "num_unique_owners": 153,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-09-30 00:00:00"
+        },
+        {
+          "average_listing_age": 30054,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 86,
+            "token_id": 6875
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 77.5,
+            "token_id": 4651
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 217,
+          "num_unique_owners": 152,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 193,
+            "token_id": 9038
+          },
+          "timestamp": "2022-10-01 00:00:00"
+        },
+        {
+          "average_listing_age": 26801,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 79.77888999999999,
+            "token_id": 9982
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 75.5,
+            "token_id": 9646
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 215,
+          "num_unique_owners": 151,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 549,
+            "token_id": 7269
+          },
+          "timestamp": "2022-10-02 00:00:00"
+        },
+        {
+          "average_listing_age": 46112,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 102.6,
+            "token_id": 8643
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 79,
+            "token_id": 9982
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 200,
+          "num_unique_owners": 149,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 549,
+            "token_id": 7269
+          },
+          "timestamp": "2022-10-03 00:00:00"
+        },
+        {
+          "average_listing_age": 40771,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 100,
+            "token_id": 9168
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 78.95,
+            "token_id": 9982
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 242,
+          "num_unique_owners": 148,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 549,
+            "token_id": 7269
+          },
+          "timestamp": "2022-10-04 00:00:00"
+        },
+        {
+          "average_listing_age": 44616,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 102,
+            "token_id": 8240
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 78.69,
+            "token_id": 9982
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 224,
+          "num_unique_owners": 149,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 549,
+            "token_id": 7269
+          },
+          "timestamp": "2022-10-05 00:00:00"
+        },
+        {
+          "average_listing_age": 74723,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 77.86796999999999,
+            "token_id": 9982
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 77.71475000000001,
+            "token_id": 9982
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 240,
+          "num_unique_owners": 148,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 549,
+            "token_id": 7269
+          },
+          "timestamp": "2022-10-06 00:00:00"
+        },
+        {
+          "average_listing_age": 74978,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 106.26,
+            "token_id": 7908
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 75.9,
+            "token_id": 9982
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 173,
+          "num_unique_owners": 143,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 549,
+            "token_id": 7269
+          },
+          "timestamp": "2022-10-07 00:00:00"
+        },
+        {
+          "average_listing_age": 33275,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 105,
+            "token_id": 7908
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 74.41944000000002,
+            "token_id": 9982
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 165,
+          "num_unique_owners": 137,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 549,
+            "token_id": 7269
+          },
+          "timestamp": "2022-10-08 00:00:00"
+        },
+        {
+          "average_listing_age": 79660,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 89.9,
+            "token_id": 7346
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 75.5,
+            "token_id": 9611
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 165,
+          "num_unique_owners": 136,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 549,
+            "token_id": 7269
+          },
+          "timestamp": "2022-10-09 00:00:00"
+        },
+        {
+          "average_listing_age": 36781,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 84.2,
+            "token_id": 8124
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 75.5,
+            "token_id": 9611
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 199,
+          "num_unique_owners": 139,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 549,
+            "token_id": 7269
+          },
+          "timestamp": "2022-10-10 00:00:00"
+        },
+        {
+          "average_listing_age": 3545,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 76,
+            "token_id": 326
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 75.5,
+            "token_id": 9611
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 179,
+          "num_unique_owners": 140,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 549,
+            "token_id": 7269
+          },
+          "timestamp": "2022-10-11 00:00:00"
+        },
+        {
+          "average_listing_age": 30920,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 91.99,
+            "token_id": 4871
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 73,
+            "token_id": 9982
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 215,
+          "num_unique_owners": 149,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 8973
+          },
+          "timestamp": "2022-10-12 00:00:00"
+        },
+        {
+          "average_listing_age": 56936,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 99.69,
+            "token_id": 4871
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 73,
+            "token_id": 9982
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 207,
+          "num_unique_owners": 152,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 8973
+          },
+          "timestamp": "2022-10-13 00:00:00"
+        },
+        {
+          "average_listing_age": 43897,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 100,
+            "token_id": 3539
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 73,
+            "token_id": 9982
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 211,
+          "num_unique_owners": 149,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 8973
+          },
+          "timestamp": "2022-10-14 00:00:00"
+        },
+        {
+          "average_listing_age": 19982,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 72.42069,
+            "token_id": 9982
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 72.42069,
+            "token_id": 9982
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 182,
+          "num_unique_owners": 148,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 8973
+          },
+          "timestamp": "2022-10-15 00:00:00"
+        },
+        {
+          "average_listing_age": 69706,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 78.84587,
+            "token_id": 9872
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 72.42069,
+            "token_id": 9982
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 255,
+          "num_unique_owners": 142,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 8973
+          },
+          "timestamp": "2022-10-16 00:00:00"
+        },
+        {
+          "average_listing_age": 44882,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 78.57656999999999,
+            "token_id": 9872
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 76.98,
+            "token_id": 4651
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 217,
+          "num_unique_owners": 142,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 8973
+          },
+          "timestamp": "2022-10-17 00:00:00"
+        },
+        {
+          "average_listing_age": 71488,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 75.81356,
+            "token_id": 9872
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 75.15118,
+            "token_id": 9872
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 293,
+          "num_unique_owners": 137,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 8973
+          },
+          "timestamp": "2022-10-18 00:00:00"
+        },
+        {
+          "average_listing_age": 67984,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 125.69,
+            "token_id": 7400
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 73.16935,
+            "token_id": 9872
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 254,
+          "num_unique_owners": 136,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 8973
+          },
+          "timestamp": "2022-10-19 00:00:00"
+        },
+        {
+          "average_listing_age": 69906,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 129.24386,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 76,
+            "token_id": 326
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 255,
+          "num_unique_owners": 150,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 8973
+          },
+          "timestamp": "2022-10-20 00:00:00"
+        },
+        {
+          "average_listing_age": 51071,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 129.21417,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 74,
+            "token_id": 3329
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 324,
+          "num_unique_owners": 160,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 8973
+          },
+          "timestamp": "2022-10-21 00:00:00"
+        },
+        {
+          "average_listing_age": 16843,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 128.72906,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 74,
+            "token_id": 3329
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 351,
+          "num_unique_owners": 162,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 8973
+          },
+          "timestamp": "2022-10-22 00:00:00"
+        },
+        {
+          "average_listing_age": 70800,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 125.95728999999999,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 74,
+            "token_id": 3329
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 354,
+          "num_unique_owners": 168,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 355,
+            "token_id": 9884
+          },
+          "timestamp": "2022-10-23 00:00:00"
+        },
+        {
+          "average_listing_age": 54624,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 127.30048,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 74,
+            "token_id": 3329
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 341,
+          "num_unique_owners": 167,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 200,
+            "token_id": 2468
+          },
+          "timestamp": "2022-10-24 00:00:00"
+        },
+        {
+          "average_listing_age": 83513,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 125.94024,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 74,
+            "token_id": 3329
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 378,
+          "num_unique_owners": 173,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 200,
+            "token_id": 2468
+          },
+          "timestamp": "2022-10-25 00:00:00"
+        },
+        {
+          "average_listing_age": 58543,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 124.25556,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 72.9,
+            "token_id": 3329
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 415,
+          "num_unique_owners": 178,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 200,
+            "token_id": 2468
+          },
+          "timestamp": "2022-10-26 00:00:00"
+        },
+        {
+          "average_listing_age": 15944,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 80.8,
+            "token_id": 3539
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 70.7,
+            "token_id": 3015
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 403,
+          "num_unique_owners": 176,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 200,
+            "token_id": 2468
+          },
+          "timestamp": "2022-10-27 00:00:00"
+        },
+        {
+          "average_listing_age": 3175,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 99.222,
+            "token_id": 3593
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 71,
+            "token_id": 857
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 325,
+          "num_unique_owners": 191,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 200,
+            "token_id": 2468
+          },
+          "timestamp": "2022-10-28 00:00:00"
+        },
+        {
+          "average_listing_age": 61844,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 123.79984999999999,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 70,
+            "token_id": 857
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 300,
+          "num_unique_owners": 188,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 200,
+            "token_id": 2468
+          },
+          "timestamp": "2022-10-29 00:00:00"
+        },
+        {
+          "average_listing_age": 1182,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 73.9,
+            "token_id": 4597
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 68.7,
+            "token_id": 6060
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 306,
+          "num_unique_owners": 180,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 188,
+            "token_id": 3685
+          },
+          "timestamp": "2022-10-30 00:00:00"
+        },
+        {
+          "average_listing_age": 21830,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 116.78845,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 66.5776,
+            "token_id": 8867
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 305,
+          "num_unique_owners": 183,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 188,
+            "token_id": 3685
+          },
+          "timestamp": "2022-10-31 00:00:00"
+        },
+        {
+          "average_listing_age": 28672,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 117.82736999999999,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 65,
+            "token_id": 7186
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 331,
+          "num_unique_owners": 180,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 188,
+            "token_id": 3685
+          },
+          "timestamp": "2022-11-01 00:00:00"
+        },
+        {
+          "average_listing_age": 10865,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 117.69807,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 67.5,
+            "token_id": 1268
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 315,
+          "num_unique_owners": 174,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 188,
+            "token_id": 3685
+          },
+          "timestamp": "2022-11-02 00:00:00"
+        },
+        {
+          "average_listing_age": 76159,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 116.84224,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 66,
+            "token_id": 3634
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 304,
+          "num_unique_owners": 182,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 188,
+            "token_id": 3685
+          },
+          "timestamp": "2022-11-03 00:00:00"
+        },
+        {
+          "average_listing_age": 74765,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 117.50338,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 66,
+            "token_id": 3634
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 250,
+          "num_unique_owners": 175,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 188,
+            "token_id": 3685
+          },
+          "timestamp": "2022-11-04 00:00:00"
+        },
+        {
+          "average_listing_age": 60387,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 119.23684,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 64.8,
+            "token_id": 858
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 237,
+          "num_unique_owners": 156,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 188,
+            "token_id": 3685
+          },
+          "timestamp": "2022-11-05 00:00:00"
+        },
+        {
+          "average_listing_age": 18944,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 118.65144,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 63.5,
+            "token_id": 7644
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 228,
+          "num_unique_owners": 153,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 188,
+            "token_id": 3685
+          },
+          "timestamp": "2022-11-06 00:00:00"
+        },
+        {
+          "average_listing_age": 29864,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 84,
+            "token_id": 8749
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 63.5,
+            "token_id": 7644
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 228,
+          "num_unique_owners": 158,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 188,
+            "token_id": 3685
+          },
+          "timestamp": "2022-11-07 00:00:00"
+        },
+        {
+          "average_listing_age": 3473,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 69.2,
+            "token_id": 858
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 62.97,
+            "token_id": 7644
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 228,
+          "num_unique_owners": 172,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 188,
+            "token_id": 3685
+          },
+          "timestamp": "2022-11-08 00:00:00"
+        },
+        {
+          "average_listing_age": 62948,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 76.2143,
+            "token_id": 7528
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 62.97,
+            "token_id": 7644
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 281,
+          "num_unique_owners": 173,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 188,
+            "token_id": 3685
+          },
+          "timestamp": "2022-11-09 00:00:00"
+        },
+        {
+          "average_listing_age": 32257,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 65.8061,
+            "token_id": 2947
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 55.62,
+            "token_id": 2974
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 384,
+          "num_unique_owners": 176,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 3499.0000000000005,
+            "token_id": 4851
+          },
+          "timestamp": "2022-11-10 00:00:00"
+        },
+        {
+          "average_listing_age": 56391,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 77,
+            "token_id": 1376
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 56.37,
+            "token_id": 731
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 318,
+          "num_unique_owners": 174,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 3499.0000000000005,
+            "token_id": 4851
+          },
+          "timestamp": "2022-11-11 00:00:00"
+        },
+        {
+          "average_listing_age": 65717,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 70.788,
+            "token_id": 7908
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 58.46,
+            "token_id": 731
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 260,
+          "num_unique_owners": 171,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 3499.0000000000005,
+            "token_id": 4851
+          },
+          "timestamp": "2022-11-12 00:00:00"
+        },
+        {
+          "average_listing_age": 20180,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 60,
+            "token_id": 8900
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 54.5455,
+            "token_id": 731
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 305,
+          "num_unique_owners": 182,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 3499.0000000000005,
+            "token_id": 4851
+          },
+          "timestamp": "2022-11-13 00:00:00"
+        },
+        {
+          "average_listing_age": 42629,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 87.2347,
+            "token_id": 1878
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 51.8182,
+            "token_id": 731
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 299,
+          "num_unique_owners": 186,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 150,
+            "token_id": 7947
+          },
+          "timestamp": "2022-11-14 00:00:00"
+        },
+        {
+          "average_listing_age": 20504,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 61.1735,
+            "token_id": 9525
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 48,
+            "token_id": 6891
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 288,
+          "num_unique_owners": 181,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 150,
+            "token_id": 7947
+          },
+          "timestamp": "2022-11-15 00:00:00"
+        },
+        {
+          "average_listing_age": 39641,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 107.89039000000001,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 53,
+            "token_id": 6891
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 334,
+          "num_unique_owners": 170,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 150,
+            "token_id": 7947
+          },
+          "timestamp": "2022-11-16 00:00:00"
+        },
+        {
+          "average_listing_age": 61329,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 104.78748999999999,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 58.1819,
+            "token_id": 3329
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 306,
+          "num_unique_owners": 170,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 150,
+            "token_id": 7947
+          },
+          "timestamp": "2022-11-17 00:00:00"
+        },
+        {
+          "average_listing_age": 3146,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 60.898,
+            "token_id": 7116
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 58.5204,
+            "token_id": 8885
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 222,
+          "num_unique_owners": 164,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 150,
+            "token_id": 7947
+          },
+          "timestamp": "2022-11-18 00:00:00"
+        },
+        {
+          "average_listing_age": 6794,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 98.76543210000001,
+            "token_id": 3896
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 60,
+            "token_id": 7779
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 201,
+          "num_unique_owners": 162,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 150,
+            "token_id": 7947
+          },
+          "timestamp": "2022-11-19 00:00:00"
+        },
+        {
+          "average_listing_age": 42456,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 59.99,
+            "token_id": 7595
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 58,
+            "token_id": 7779
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 209,
+          "num_unique_owners": 158,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 480,
+            "token_id": 1781
+          },
+          "timestamp": "2022-11-20 00:00:00"
+        },
+        {
+          "average_listing_age": 4010,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 62,
+            "token_id": 8616
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 57,
+            "token_id": 9425
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 241,
+          "num_unique_owners": 156,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 480,
+            "token_id": 1781
+          },
+          "timestamp": "2022-11-21 00:00:00"
+        },
+        {
+          "average_listing_age": 81479,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 100.3496,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 55.69,
+            "token_id": 3329
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 361,
+          "num_unique_owners": 157,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 480,
+            "token_id": 1781
+          },
+          "timestamp": "2022-11-22 00:00:00"
+        },
+        {
+          "average_listing_age": 82713,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 65.3061,
+            "token_id": 5439
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 57.5,
+            "token_id": 731
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 364,
+          "num_unique_owners": 161,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 480,
+            "token_id": 1781
+          },
+          "timestamp": "2022-11-23 00:00:00"
+        },
+        {
+          "average_listing_age": 79129,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 70.0918,
+            "token_id": 7829
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 61.4269,
+            "token_id": 935
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 233,
+          "num_unique_owners": 157,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 480,
+            "token_id": 1781
+          },
+          "timestamp": "2022-11-24 00:00:00"
+        },
+        {
+          "average_listing_age": 20914,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 149,
+            "token_id": 9018
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 61,
+            "token_id": 731
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 248,
+          "num_unique_owners": 164,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 480,
+            "token_id": 1781
+          },
+          "timestamp": "2022-11-25 00:00:00"
+        },
+        {
+          "average_listing_age": 8858,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 74.25,
+            "token_id": 9886
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 62.4269,
+            "token_id": 6752
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 296,
+          "num_unique_owners": 155,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 480,
+            "token_id": 1781
+          },
+          "timestamp": "2022-11-26 00:00:00"
+        },
+        {
+          "average_listing_age": 85842,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 98,
+            "token_id": 1601
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 69,
+            "token_id": 8227
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 238,
+          "num_unique_owners": 159,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 175,
+            "token_id": 5918
+          },
+          "timestamp": "2022-11-27 00:00:00"
+        },
+        {
+          "average_listing_age": 60906,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 93.69,
+            "token_id": 1962
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 66.99,
+            "token_id": 2163
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 222,
+          "num_unique_owners": 158,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 175,
+            "token_id": 5918
+          },
+          "timestamp": "2022-11-28 00:00:00"
+        },
+        {
+          "average_listing_age": 83160,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 81.6,
+            "token_id": 7908
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 66.99,
+            "token_id": 2163
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 270,
+          "num_unique_owners": 162,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 175,
+            "token_id": 5918
+          },
+          "timestamp": "2022-11-29 00:00:00"
+        },
+        {
+          "average_listing_age": 13314,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 72.5,
+            "token_id": 4497
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 67.44,
+            "token_id": 527
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 243,
+          "num_unique_owners": 154,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 1300
+          },
+          "timestamp": "2022-11-30 00:00:00"
+        },
+        {
+          "average_listing_age": 48282,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 72.69,
+            "token_id": 5462
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 65.99,
+            "token_id": 9601
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 183,
+          "num_unique_owners": 147,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 1300
+          },
+          "timestamp": "2022-12-01 00:00:00"
+        },
+        {
+          "average_listing_age": 49564,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 86,
+            "token_id": 8332
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 65.2,
+            "token_id": 7369
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 223,
+          "num_unique_owners": 157,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 1300
+          },
+          "timestamp": "2022-12-02 00:00:00"
+        },
+        {
+          "average_listing_age": 68820,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 90,
+            "token_id": 3805
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 66.77,
+            "token_id": 7369
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 247,
+          "num_unique_owners": 152,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 1300
+          },
+          "timestamp": "2022-12-03 00:00:00"
+        },
+        {
+          "average_listing_age": 61273,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 118.74888,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 67.69,
+            "token_id": 7369
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 231,
+          "num_unique_owners": 139,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 1300
+          },
+          "timestamp": "2022-12-04 00:00:00"
+        },
+        {
+          "average_listing_age": 56025,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 119.83391,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 66.99,
+            "token_id": 6456
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 264,
+          "num_unique_owners": 154,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 1300
+          },
+          "timestamp": "2022-12-05 00:00:00"
+        },
+        {
+          "average_listing_age": 72244,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 73,
+            "token_id": 7941
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 66.5,
+            "token_id": 9425
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 241,
+          "num_unique_owners": 156,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 1300
+          },
+          "timestamp": "2022-12-06 00:00:00"
+        },
+        {
+          "average_listing_age": 81364,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 117.01377,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 65.35,
+            "token_id": 3329
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 300,
+          "num_unique_owners": 146,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 1300
+          },
+          "timestamp": "2022-12-07 00:00:00"
+        },
+        {
+          "average_listing_age": 9349,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 117.10164,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 64.46,
+            "token_id": 9425
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 293,
+          "num_unique_owners": 145,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 1300
+          },
+          "timestamp": "2022-12-08 00:00:00"
+        },
+        {
+          "average_listing_age": 52085,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 114.51338,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 63.36,
+            "token_id": 9425
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 292,
+          "num_unique_owners": 144,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 1300
+          },
+          "timestamp": "2022-12-09 00:00:00"
+        },
+        {
+          "average_listing_age": 46929,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 74.1735,
+            "token_id": 3900
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 65.2,
+            "token_id": 1292
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 293,
+          "num_unique_owners": 140,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 1300
+          },
+          "timestamp": "2022-12-10 00:00:00"
+        },
+        {
+          "average_listing_age": 26957,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 120.77892,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 65.89,
+            "token_id": 1455
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 266,
+          "num_unique_owners": 136,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 1300
+          },
+          "timestamp": "2022-12-11 00:00:00"
+        },
+        {
+          "average_listing_age": 70831,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 71.3673,
+            "token_id": 967
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 67.29,
+            "token_id": 2045
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 230,
+          "num_unique_owners": 123,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 1300
+          },
+          "timestamp": "2022-12-12 00:00:00"
+        },
+        {
+          "average_listing_age": 68908,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 67.49,
+            "token_id": 6762
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 67.3469,
+            "token_id": 1334
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 185,
+          "num_unique_owners": 103,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 1300
+          },
+          "timestamp": "2022-12-13 00:00:00"
+        },
+        {
+          "average_listing_age": 8842,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 68.47,
+            "token_id": 2947
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 63,
+            "token_id": 3329
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 205,
+          "num_unique_owners": 95,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 1300
+          },
+          "timestamp": "2022-12-14 00:00:00"
+        },
+        {
+          "average_listing_age": 73122,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 115.06133,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 62.62,
+            "token_id": 3329
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 234,
+          "num_unique_owners": 95,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 1300
+          },
+          "timestamp": "2022-12-15 00:00:00"
+        },
+        {
+          "average_listing_age": 3886,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 116.94008,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 62.62,
+            "token_id": 3329
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 205,
+          "num_unique_owners": 92,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 1300
+          },
+          "timestamp": "2022-12-16 00:00:00"
+        },
+        {
+          "average_listing_age": 22980,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 87,
+            "token_id": 4269
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 60,
+            "token_id": 7875
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 226,
+          "num_unique_owners": 97,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 1300
+          },
+          "timestamp": "2022-12-17 00:00:00"
+        },
+        {
+          "average_listing_age": 59119,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 116.34723000000001,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 62,
+            "token_id": 9915
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 220,
+          "num_unique_owners": 93,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 1300
+          },
+          "timestamp": "2022-12-18 00:00:00"
+        },
+        {
+          "average_listing_age": 47208,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 61,
+            "token_id": 2533
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 61,
+            "token_id": 2533
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 191,
+          "num_unique_owners": 89,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 300,
+            "token_id": 1300
+          },
+          "timestamp": "2022-12-19 00:00:00"
+        },
+        {
+          "average_listing_age": 17520,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 113.79104,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 14.825,
+            "token_id": 9744
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 195,
+          "num_unique_owners": 81,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 999,
+            "token_id": 3083
+          },
+          "timestamp": "2022-12-20 00:00:00"
+        },
+        {
+          "average_listing_age": 67719,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 69.99,
+            "token_id": 2060
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 64.5,
+            "token_id": 2877
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 160,
+          "num_unique_owners": 85,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 999,
+            "token_id": 3083
+          },
+          "timestamp": "2022-12-21 00:00:00"
+        },
+        {
+          "average_listing_age": 79791,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 117.44044,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 65.5,
+            "token_id": 3329
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 182,
+          "num_unique_owners": 84,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 10000,
+            "token_id": 4148
+          },
+          "timestamp": "2022-12-22 00:00:00"
+        },
+        {
+          "average_listing_age": 38376,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 127.37077,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 65.5,
+            "token_id": 4429
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 259,
+          "num_unique_owners": 78,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 10000,
+            "token_id": 4148
+          },
+          "timestamp": "2022-12-23 00:00:00"
+        },
+        {
+          "average_listing_age": 65593,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 70.2551,
+            "token_id": 6367
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 69.2755,
+            "token_id": 3329
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 195,
+          "num_unique_owners": 89,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 10000,
+            "token_id": 4148
+          },
+          "timestamp": "2022-12-24 00:00:00"
+        },
+        {
+          "average_listing_age": 18743,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 127.20897,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 69.2755,
+            "token_id": 3329
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 165,
+          "num_unique_owners": 82,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 10000,
+            "token_id": 4148
+          },
+          "timestamp": "2022-12-25 00:00:00"
+        },
+        {
+          "average_listing_age": 82710,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 74.22,
+            "token_id": 9419
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 69.2469,
+            "token_id": 2877
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 192,
+          "num_unique_owners": 72,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 10000,
+            "token_id": 4148
+          },
+          "timestamp": "2022-12-26 00:00:00"
+        },
+        {
+          "average_listing_age": 34212,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 129.28876,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 69.42,
+            "token_id": 2877
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 181,
+          "num_unique_owners": 77,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 10000,
+            "token_id": 4148
+          },
+          "timestamp": "2022-12-27 00:00:00"
+        },
+        {
+          "average_listing_age": 50203,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 82.5396,
+            "token_id": 283
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 73.4694,
+            "token_id": 8911
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 171,
+          "num_unique_owners": 77,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 10000,
+            "token_id": 4148
+          },
+          "timestamp": "2022-12-28 00:00:00"
+        },
+        {
+          "average_listing_age": 22603,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 136.71131,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 77.3264,
+            "token_id": 4306
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 207,
+          "num_unique_owners": 90,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 10000,
+            "token_id": 4148
+          },
+          "timestamp": "2022-12-29 00:00:00"
+        },
+        {
+          "average_listing_age": 64102,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 76.99,
+            "token_id": 4595
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 69,
+            "token_id": 3951
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 201,
+          "num_unique_owners": 90,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "timestamp": "2022-12-30 00:00:00"
+        },
+        {
+          "average_listing_age": 38018,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 127.39818,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 69.49,
+            "token_id": 4429
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 182,
+          "num_unique_owners": 90,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "timestamp": "2022-12-31 00:00:00"
+        },
+        {
+          "average_listing_age": 71242,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 73.8163,
+            "token_id": 3182
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 69.49,
+            "token_id": 4429
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 173,
+          "num_unique_owners": 86,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "timestamp": "2023-01-01 00:00:00"
+        },
+        {
+          "average_listing_age": 43771,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 132.74939,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 71.9388,
+            "token_id": 3182
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 210,
+          "num_unique_owners": 86,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "timestamp": "2023-01-02 00:00:00"
+        },
+        {
+          "average_listing_age": 40709,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 83,
+            "token_id": 6441
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 72,
+            "token_id": 7116
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "num_active_listings": 212,
+          "num_unique_owners": 85,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 999999999,
+            "token_id": 5664
+          },
+          "timestamp": "2023-01-03 00:00:00"
+        },
+        {
+          "average_listing_age": 7020,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 82,
+            "token_id": 6367
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 74.74,
+            "token_id": 3329
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 185,
+          "num_unique_owners": 81,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-04 00:00:00"
+        },
+        {
+          "average_listing_age": 44611,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 78.37,
+            "token_id": 7078
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 74.7449,
+            "token_id": 7116
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 168,
+          "num_unique_owners": 83,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-05 00:00:00"
+        },
+        {
+          "average_listing_age": 77027,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 99,
+            "token_id": 9768
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 75.25,
+            "token_id": 7936
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 221,
+          "num_unique_owners": 88,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-06 00:00:00"
+        },
+        {
+          "average_listing_age": 3143,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 145.75998,
+            "token_id": 8477
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 81.49,
+            "token_id": 9119
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 186,
+          "num_unique_owners": 90,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-07 00:00:00"
+        },
+        {
+          "average_listing_age": 49393,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 89.6,
+            "token_id": 4595
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 81.49,
+            "token_id": 9119
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 160,
+          "num_unique_owners": 91,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-08 00:00:00"
+        },
+        {
+          "average_listing_age": 26468,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 90,
+            "token_id": 747
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 76.99,
+            "token_id": 9119
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 184,
+          "num_unique_owners": 88,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-09 00:00:00"
+        },
+        {
+          "average_listing_age": 80284,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 100,
+            "token_id": 6827
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 78.8,
+            "token_id": 7936
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 153,
+          "num_unique_owners": 89,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-10 00:00:00"
+        },
+        {
+          "average_listing_age": 66302,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 91,
+            "token_id": 4783
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 78.8,
+            "token_id": 7936
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 122,
+          "num_unique_owners": 89,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-11 00:00:00"
+        },
+        {
+          "average_listing_age": 51078,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 250,
+            "token_id": 2819
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 75,
+            "token_id": 440
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 154,
+          "num_unique_owners": 94,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-12 00:00:00"
+        },
+        {
+          "average_listing_age": 27953,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 150,
+            "token_id": 4202
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 74.4898,
+            "token_id": 1455
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 134,
+          "num_unique_owners": 91,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-13 00:00:00"
+        },
+        {
+          "average_listing_age": 59962,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 76,
+            "token_id": 3147
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 74.6939,
+            "token_id": 7941
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 127,
+          "num_unique_owners": 83,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-14 00:00:00"
+        },
+        {
+          "average_listing_age": 32629,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 76.0204,
+            "token_id": 9863
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 70,
+            "token_id": 9016
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 131,
+          "num_unique_owners": 88,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-15 00:00:00"
+        },
+        {
+          "average_listing_age": 79121,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 74.99,
+            "token_id": 731
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 69.25,
+            "token_id": 7670
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 127,
+          "num_unique_owners": 87,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-16 00:00:00"
+        },
+        {
+          "average_listing_age": 37341,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 92.2,
+            "token_id": 8332
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 69.7671,
+            "token_id": 1326
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 137,
+          "num_unique_owners": 87,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-17 00:00:00"
+        },
+        {
+          "average_listing_age": 29908,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 100,
+            "token_id": 3969
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 67.4,
+            "token_id": 4595
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 98,
+          "num_unique_owners": 81,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-18 00:00:00"
+        },
+        {
+          "average_listing_age": 50265,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 73.4694,
+            "token_id": 8914
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 65,
+            "token_id": 764
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 76,
+          "num_unique_owners": 78,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-19 00:00:00"
+        },
+        {
+          "average_listing_age": 47582,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 71.16098,
+            "token_id": 5462
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 60,
+            "token_id": 9109
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 118,
+          "num_unique_owners": 75,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-20 00:00:00"
+        },
+        {
+          "average_listing_age": 26702,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 70.5638,
+            "token_id": 3271
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 63.89,
+            "token_id": 655
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 80,
+          "num_unique_owners": 70,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-21 00:00:00"
+        },
+        {
+          "average_listing_age": 78921,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 72.5,
+            "token_id": 3182
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 65.5,
+            "token_id": 9109
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 94,
+          "num_unique_owners": 71,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-22 00:00:00"
+        },
+        {
+          "average_listing_age": 49295,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 77.1622,
+            "token_id": 6830
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 69.6969,
+            "token_id": 4847
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 101,
+          "num_unique_owners": 73,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-23 00:00:00"
+        },
+        {
+          "average_listing_age": 31727,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 69.9696,
+            "token_id": 7431
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 63,
+            "token_id": 6396
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 98,
+          "num_unique_owners": 73,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-24 00:00:00"
+        },
+        {
+          "average_listing_age": 39957,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 70.102,
+            "token_id": 9147
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 62.8,
+            "token_id": 3634
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 101,
+          "num_unique_owners": 78,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-25 00:00:00"
+        },
+        {
+          "average_listing_age": 52867,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 69.8531,
+            "token_id": 3847
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 64.19,
+            "token_id": 2311
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 91,
+          "num_unique_owners": 75,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-26 00:00:00"
+        },
+        {
+          "average_listing_age": 257,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 72.449,
+            "token_id": 7670
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 64.208,
+            "token_id": 8214
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 87,
+          "num_unique_owners": 70,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-27 00:00:00"
+        },
+        {
+          "average_listing_age": 49978,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 69.396,
+            "token_id": 8914
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 64.95,
+            "token_id": 8911
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 85,
+          "num_unique_owners": 71,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-28 00:00:00"
+        },
+        {
+          "average_listing_age": 51912,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 111.4796,
+            "token_id": 1811
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 64.4899999,
+            "token_id": 8214
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 86,
+          "num_unique_owners": 69,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-29 00:00:00"
+        },
+        {
+          "average_listing_age": 44764,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 76.9,
+            "token_id": 4906
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 62,
+            "token_id": 7354
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 75,
+          "num_unique_owners": 65,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-30 00:00:00"
+        },
+        {
+          "average_listing_age": 990,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 64.49,
+            "token_id": 8911
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 64.4899999,
+            "token_id": 8214
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 83,
+          "num_unique_owners": 69,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-01-31 00:00:00"
+        },
+        {
+          "average_listing_age": 86250,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 77.4999999999999,
+            "token_id": 2287
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 64.33,
+            "token_id": 8214
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 86,
+          "num_unique_owners": 70,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-02-01 00:00:00"
+        },
+        {
+          "average_listing_age": 32172,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 77.499999999999,
+            "token_id": 2287
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 64.33,
+            "token_id": 8214
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 74,
+          "num_unique_owners": 69,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-02-02 00:00:00"
+        },
+        {
+          "average_listing_age": 44049,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 75,
+            "token_id": 593
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 62.99,
+            "token_id": 3634
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 86,
+          "num_unique_owners": 68,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-02-03 00:00:00"
+        },
+        {
+          "average_listing_age": 42160,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 97.5,
+            "token_id": 3862
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 64,
+            "token_id": 7875
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 80,
+          "num_unique_owners": 68,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-02-04 00:00:00"
+        },
+        {
+          "average_listing_age": 64481,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 78.5,
+            "token_id": 2287
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 63.89,
+            "token_id": 8911
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 66,
+          "num_unique_owners": 62,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-02-05 00:00:00"
+        },
+        {
+          "average_listing_age": 40132,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 77,
+            "token_id": 5547
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 63.99,
+            "token_id": 8911
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 73,
+          "num_unique_owners": 59,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-02-06 00:00:00"
+        },
+        {
+          "average_listing_age": 25694,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 68.99,
+            "token_id": 731
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 65.6,
+            "token_id": 9724
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 82,
+          "num_unique_owners": 61,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-02-07 00:00:00"
+        },
+        {
+          "average_listing_age": 62292,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 100,
+            "token_id": 4269
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 68.4,
+            "token_id": 731
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 70,
+          "num_unique_owners": 59,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-02-08 00:00:00"
+        },
+        {
+          "average_listing_age": 75626,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 71.96,
+            "token_id": 731
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 71.96,
+            "token_id": 731
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 70,
+          "num_unique_owners": 62,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-02-09 00:00:00"
+        },
+        {
+          "average_listing_age": 61327,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 72,
+            "token_id": 3147
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 70.97,
+            "token_id": 3634
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 74,
+          "num_unique_owners": 57,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-02-10 00:00:00"
+        },
+        {
+          "average_listing_age": 82088,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 75.66,
+            "token_id": 608
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 70.97,
+            "token_id": 3634
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 76,
+          "num_unique_owners": 59,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-02-11 00:00:00"
+        },
+        {
+          "average_listing_age": 49114,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 87.59999998999999,
+            "token_id": 2287
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 68.068,
+            "token_id": 8214
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 84,
+          "num_unique_owners": 61,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-02-12 00:00:00"
+        },
+        {
+          "average_listing_age": 27211,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 74.95786,
+            "token_id": 6774
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 67,
+            "token_id": 8214
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 95,
+          "num_unique_owners": 63,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-02-13 00:00:00"
+        },
+        {
+          "average_listing_age": 54910,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 75.05394,
+            "token_id": 2149
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 67,
+            "token_id": 8214
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 158,
+          "num_unique_owners": 64,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-02-14 00:00:00"
+        },
+        {
+          "average_listing_age": 36211,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 88.8888,
+            "token_id": 4716
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 67,
+            "token_id": 8214
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 93,
+          "num_unique_owners": 65,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-02-15 00:00:00"
+        },
+        {
+          "average_listing_age": 12767,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 98,
+            "token_id": 4716
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 68.9,
+            "token_id": 8911
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 95,
+          "num_unique_owners": 59,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-02-16 00:00:00"
+        },
+        {
+          "average_listing_age": 20396,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 122.449,
+            "token_id": 9603
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 72,
+            "token_id": 4651
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 90,
+          "num_unique_owners": 63,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-02-17 00:00:00"
+        },
+        {
+          "average_listing_age": 2159,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 87,
+            "token_id": 2287
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 72.45,
+            "token_id": 3634
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 78,
+          "num_unique_owners": 63,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-02-18 00:00:00"
+        },
+        {
+          "average_listing_age": 80839,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 76.97,
+            "token_id": 9383
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 72,
+            "token_id": 731
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 92,
+          "num_unique_owners": 68,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-02-19 00:00:00"
+        },
+        {
+          "average_listing_age": 2416,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 93.33,
+            "token_id": 4271
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 69.25,
+            "token_id": 1325
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 86,
+          "num_unique_owners": 69,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-02-20 00:00:00"
+        },
+        {
+          "average_listing_age": 18642,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 88,
+            "token_id": 1769
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 72.5,
+            "token_id": 7644
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 81,
+          "num_unique_owners": 71,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-02-21 00:00:00"
+        },
+        {
+          "average_listing_age": 22041,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 78,
+            "token_id": 1524
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 69.49,
+            "token_id": 3475
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 67,
+          "num_unique_owners": 58,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-02-22 00:00:00"
+        },
+        {
+          "average_listing_age": 10229,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 89,
+            "token_id": 1198
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 68.499,
+            "token_id": 1325
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 63,
+          "num_unique_owners": 52,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-02-23 00:00:00"
+        },
+        {
+          "average_listing_age": 22386,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 76,
+            "token_id": 3412
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 69.4,
+            "token_id": 3634
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 60,
+          "num_unique_owners": 48,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 777.7769999999999,
+            "token_id": 3035
+          },
+          "timestamp": "2023-02-24 00:00:00"
+        },
+        {
+          "average_listing_age": 76450,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 67.6968,
+            "token_id": 9483
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 63,
+            "token_id": 608
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 61,
+          "num_unique_owners": 55,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 100,
+            "token_id": 7270
+          },
+          "timestamp": "2023-02-25 00:00:00"
+        },
+        {
+          "average_listing_age": 25809,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 76.5,
+            "token_id": 1524
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 67.6968,
+            "token_id": 9483
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 54,
+          "num_unique_owners": 54,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 100,
+            "token_id": 7270
+          },
+          "timestamp": "2023-02-26 00:00:00"
+        },
+        {
+          "average_listing_age": 61540,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 80,
+            "token_id": 3961
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 70.6969,
+            "token_id": 603
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 59,
+          "num_unique_owners": 52,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 100,
+            "token_id": 7270
+          },
+          "timestamp": "2023-02-27 00:00:00"
+        },
+        {
+          "average_listing_age": 55217,
+          "close": {
+            "marketplace_name": "LooksRare",
+            "price": 71.69,
+            "token_id": 2438
+          },
+          "floor": {
+            "marketplace_name": "LooksRare",
+            "price": 70.82,
+            "token_id": 6813
+          },
+          "high": {
+            "marketplace_name": "LooksRare",
+            "price": 9999,
+            "token_id": 8973
+          },
+          "num_active_listings": 62,
+          "num_unique_owners": 53,
+          "open": {
+            "marketplace_name": "LooksRare",
+            "price": 100,
+            "token_id": 7270
+          },
+          "timestamp": "2023-02-28 00:00:00"
+        }
+      ],
+      "status": "success"
+    }
+  }
